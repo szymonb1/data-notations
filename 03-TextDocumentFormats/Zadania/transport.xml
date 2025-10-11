@@ -1,0 +1,20 @@
+<meansoftransport>
+    <meanoftransport>
+        <name>bus</name>
+        <line>182</line>
+        <maxspeed unit="kmperhour">40</maxspeed>
+        <price currency="zl" desc="monthlyprice">45</price>
+    </meanoftransport>
+    <meanoftransport>
+        <name>tram</name>
+        <line>52</line>
+        <maxspeed unit="kmperhour">30</maxspeed>
+        <price currency="zl" desc="monthlyprice">45</price>
+    </meanoftransport>
+    <meanoftransport>
+        <name>car</name>
+        <make>audi</make>
+        <maxspeed unit="kmperhour">250</maxspeed>
+        <price currency="zl">200000</price>
+    </meanoftransport>
+</meansoftransport>

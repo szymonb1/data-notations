@@ -9,4 +9,13 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+    <smartphone brand="Xiaomi" model="Redmi note 10 pro" releaseYear="2019">
+        <specs>
+            <screenSize unit="inch">5.9</screenSize>
+            <batteryCapacity unit="mAh">3600</batteryCapacity>
+            <storage unit="GB">128</storage>
+            <camera unit="MP">48</camera>
+        </specs>
+        <price currency="USD">249</price>
+    </smartphone>
 </smartphones>

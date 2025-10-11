@@ -28,7 +28,7 @@
         <type>3D</type>
         <properties>
             <property>Side Length</property>
-        <properties>
+        </properties>
         <formulas>
             <area>6 * side^2</area>
             <volume>side^3</volume>
