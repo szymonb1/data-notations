@@ -1,0 +1,8 @@
+{
+    "name": "IC 24103 'Hańcza'",
+    "origin": "Kraków Główny",
+    "destination": "Maćkowo",
+    "Type": "InterCity (IC)",
+    "Seat": 15,
+    "Ticket price": 120
+}
