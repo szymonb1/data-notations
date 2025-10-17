@@ -28,4 +28,5 @@ In general, laptop components are not intended to be replaceable or upgradable b
 2. Apple
 3. Dell
 4. Lenovo
+
 [1]: https://en.wikipedia.org/wiki/Laptop
